@@ -1,0 +1,4 @@
+Version: 2.1.0.8
+Based on ReShade: 4.5.2.748+ x64
+Based on ReShade: 4.5.2.747+ x86
+Release Date: 12/23/2019
